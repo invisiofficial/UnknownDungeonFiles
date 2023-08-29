@@ -1,0 +1,73 @@
+{
+    "dsplist":
+    [
+        {
+            "PriceType":"1",
+            "Price":"2500",
+
+            "IsDrop":true,
+            "DropType":"0",
+            "DropRarityBound":"2",
+            "DropRarityChances":
+            [
+                "0",
+                "100"
+            ]
+        },
+        {
+            "PriceType":"1",
+            "Price":"1500",
+
+            "IsDrop":true,
+            "DropType":"1",
+            "DropRarityBound":"0",
+            "DropRarityChances":
+            [
+                "50",
+                "50"
+            ]
+        },
+        {
+            "PriceType":"0",
+            "Price":"50",
+
+            "IsDrop":true,
+            "DropType":"0",
+            "DropRarityBound":"3",
+            "DropRarityChances":
+            [
+                "0",
+                "100"
+            ]
+        },
+        {
+            "PriceType":"1",
+            "Price":"1000",
+
+            "IsDrop":true,
+            "DropType":"1",
+            "DropRarityBound":"0",
+            "DropRarityChances":
+            [
+                "0",
+                "0",
+                "25",
+                "25",
+                "25",
+                "25"
+            ]
+        },
+        {
+            "PriceType":"0",
+            "Price":"25",
+
+            "IsDrop":true,
+            "DropType":"2",
+            "DropRarityBound":"1",
+            "DropRarityChances":
+            [
+                "100"
+            ]
+        }
+    ]
+}
