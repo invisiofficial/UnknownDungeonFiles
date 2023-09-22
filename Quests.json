@@ -976,6 +976,25 @@
             
             "EstimatedTime":"-1",
             "StartingTime":"-1"
+        },
+
+        {
+            "ID":"54",
+            
+            "EventType":"10",
+            
+            "Difficulty":"2",
+            
+            "Progression":"0",
+            "Objective":"5",
+            
+            "RewardType":"1",
+            "Reward":"3250",
+            
+            "QuestBoard":false,
+            
+            "EstimatedTime":"-1",
+            "StartingTime":"-1"
         }
     ]
 }
