@@ -757,6 +757,7 @@
             "EstimatedTime":"1",
             "StartingTime":"-1"
         },
+
         {
             "ID":"42",
             
@@ -841,6 +842,154 @@
             
             "RewardType":"0",
             "Reward":"50",
+            
+            "QuestBoard":false,
+            
+            "EstimatedTime":"-1",
+            "StartingTime":"-1"
+        },
+
+        {
+            "ID":"47",
+            
+            "EventType":"14",
+            
+            "Difficulty":"1",
+            
+            "Progression":"0",
+            "Objective":"3",
+            
+            "RewardType":"1",
+            "Reward":"1500",
+            
+            "QuestBoard":false,
+            
+            "EstimatedTime":"-1",
+            "StartingTime":"-1"
+        },
+        {
+            "ID":"48",
+            
+            "EventType":"14",
+            
+            "Difficulty":"3",
+            
+            "Progression":"0",
+            "Objective":"6",
+            
+            "RewardType":"1",
+            "Reward":"3250",
+            
+            "QuestBoard":false,
+            
+            "EstimatedTime":"-1",
+            "StartingTime":"-1"
+        },
+        {
+            "ID":"49",
+            
+            "EventType":"14",
+            
+            "Difficulty":"4",
+            
+            "Progression":"0",
+            "Objective":"9",
+            
+            "RewardType":"0",
+            "Reward":"50",
+            
+            "QuestBoard":false,
+            
+            "EstimatedTime":"-1",
+            "StartingTime":"-1"
+        },
+
+        {
+            "ID":"50",
+            
+            "EventType":"7",
+            
+            "Difficulty":"2",
+            
+            "Progression":"0",
+            "Objective":"45",
+            
+            "RewardType":"1",
+            "Reward":"3250",
+            
+            "QuestBoard":false,
+            
+            "EstimatedTime":"-1",
+            "StartingTime":"-1"
+        },
+        {
+            "ID":"51",
+            
+            "EventType":"8",
+            
+            "Difficulty":"3",
+            
+            "Progression":"0",
+            "Objective":"30",
+            
+            "RewardType":"1",
+            "Reward":"5750",
+            
+            "QuestBoard":false,
+            
+            "EstimatedTime":"-1",
+            "StartingTime":"-1"
+        },
+        {
+            "ID":"52",
+            
+            "EventType":"9",
+            
+            "Difficulty":"4",
+            
+            "Progression":"0",
+            "Objective":"15",
+            
+            "RewardType":"0",
+            "Reward":"50",
+            
+            "QuestBoard":false,
+            
+            "EstimatedTime":"-1",
+            "StartingTime":"-1"
+        },
+
+        {
+            "ID":"53",
+            
+            "EventType":"11",
+            
+            "Difficulty":"2",
+            
+            "Progression":"0",
+            "Objective":"10",
+            
+            "RewardType":"1",
+            "Reward":"3000",
+            
+            "QuestBoard":false,
+            
+            "EstimatedTime":"-1",
+            "StartingTime":"-1"
+        },
+
+        {
+            "ID":"54",
+            
+            "EventType":"10",
+            
+            "Difficulty":"2",
+            
+            "Progression":"0",
+            "Objective":"5",
+            
+            "RewardType":"1",
+            "Reward":"3250",
             
             "QuestBoard":false,
             
