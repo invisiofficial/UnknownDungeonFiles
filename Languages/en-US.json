@@ -1,0 +1,336 @@
+{
+    "SplashImageStrings": 
+    [
+        "This game requires stable internet connection||Network issues may cause progress loss",
+        "Your Recovery Code is:||||Save it somewhere to prevent data loss",
+        "Tap to show"
+    ],
+    
+    "MainMenuStrings": 
+    [
+        "ver.",
+        "Press anywhere to start",
+        "Manage your account",
+        "Configure settings",
+        "Change the language",
+        "Account information",
+        "Tap to show",
+        "Enter your Recovery Code:",
+        "Your Recovery Code:",
+        "Enter your Safe Code:",
+        "Safe Code:",
+        "Confirm",
+        "Transfer",
+        "Game Settings",
+        "Quit the game",
+        "Create an Account",
+        "Match the Character with the Chest"
+    ],
+    
+    "ChooseCharacterStrings": 
+    [
+        "Select character",
+        "Confirm"
+    ],
+
+    "PauseHeadActionStrings":
+    [
+        "Leave the Dungeon?",
+        "Quit the Game?"
+    ],
+    "PauseNoteActionStrings":
+    [
+        "Note: You will return to the village with currency and experience!",
+        "Note: Leaving during a battle will result in an automatic loss!"
+    ],
+    "PauseActionButtonStrings":
+    [
+        "Leave",
+        "Quit"
+    ],
+    
+    "DungeonShopStrings":
+    [
+        "Dungeon shop",
+        "Back",
+        "Purchase"
+    ],
+    "DungeonShopCardStrings":
+    [
+        "Potion",
+        "1R or 2R weapon"
+    ],
+    "DungeonShopRandomCardStrings":
+    [
+        "2R weapon",
+        "Recovery potion",
+        "3R weapon",
+        "Potion of amplificacion",
+        "1R elemental spirit"
+    ],
+    
+    "QuestBoardStrings":
+    [
+        "Quest board",
+        "Back",
+        "All quests"
+    ],
+    
+    "QuestUIStrings":
+    [
+        "Quest",
+        "Reward",
+        "Rating"
+    ],
+    "QuestSenderStrings":
+    [
+        "Experience is the most important part of all adventures. It helps to level up and become even stronger.|Guild",
+        "Experience is the most important part of all adventures. It helps to level up and become even stronger.|Guild",
+        "Experience is the most important part of all adventures. It helps to level up and become even stronger.|Guild",
+        "We needed some materials from the monsters. In fact, any will do...|Alchemy Lab",
+        "We needed some materials from the monsters. In fact, any will do...|Alchemy Lab",
+        "We needed some materials from the monsters. In fact, any will do...|Alchemy Lab",
+        "There are more and more zombies on the floors of the dungeon. We have to reduce their numbers.|Guild",
+        "There are more and more zombies on the floors of the dungeon. We have to reduce their numbers.|Guild",
+        "There are more and more zombies on the floors of the dungeon. We have to reduce their numbers.|Guild",
+        "Bats filled many floors of the dungeon. Adventurers are frightened by their noise and never return back...|Guild",
+        "Bats filled many floors of the dungeon. Adventurers are frightened by their noise and never return back...|Guild",
+        "Bats filled many floors of the dungeon. Adventurers are frightened by their noise and never return back...|Guild",
+        "Spiders weave their nests in the dark corners of the dungeon. Someone needs to take care of them.|Guild",
+        "Spiders weave their nests in the dark corners of the dungeon. Someone needs to take care of them.|Guild",
+        "Spiders weave their nests in the dark corners of the dungeon. Someone needs to take care of them.|Guild",
+        "An unknown fungal infection is spreading to earth golems. They can't be cured, so the only thing left is...|Guild",
+        "An unknown fungal infection is spreading to earth golems. They can't be cured, so the only thing left is...|Guild",
+        "An unknown fungal infection is spreading to earth golems. They can't be cured, so the only thing left is...|Guild",
+        "I need to compile statistics about rewards from dungeon chests. The task is not particularly difficult, so...|Selena",
+        "I need to compile statistics about rewards from dungeon chests. The task is not particularly difficult, so...|Selena",
+        "I need to compile statistics about rewards from dungeon chests. The task is not particularly difficult, so...|Selena",
+        "Wooden chests are quite common in the dungeon, but they contain relatively minor rewards.|Selena",
+        "Wooden chests are quite common in the dungeon, but they contain relatively minor rewards.|Selena",
+        "Wooden chests are quite common in the dungeon, but they contain relatively minor rewards.|Selena",
+        "Silver chests are obtained by completing event rooms. They are much more dangerous than ordinary rooms, but...|Selena",
+        "Silver chests are obtained by completing event rooms. They are much more dangerous than ordinary rooms, but...|Selena",
+        "Silver chests are obtained by completing event rooms. They are much more dangerous than ordinary rooms, but...|Selena",
+        "The dungeon treasure chests are the only rooms where gold chests can be found. Locating them can be quite difficult...|Selena",
+        "The dungeon treasure chests are the only rooms where gold chests can be found. Locating them can be quite difficult...|Selena",
+        "The dungeon treasure chests are the only rooms where gold chests can be found. Locating them can be quite difficult...|Selena",
+        "Our stocks of weapons are running out. Any kind will do, don't worry about the quality...|Dungeon Store",
+        "Our stocks of weapons are running out. Any kind will do, don't worry about the quality...|Dungeon Store",
+        "Our stocks of weapons are running out. Any kind will do, don't worry about the quality...|Dungeon Store",
+        "Dungeon potions have excellent quality. We need a research batch.|Alchemy Lab",
+        "Dungeon potions have excellent quality. We need a research batch.|Alchemy Lab",
+        "Dungeon potions have excellent quality. We need a research batch.|Alchemy Lab",
+        "Our mages need some recovery potions from the dungeon as we are running low on ours.|Magic Tower",
+        "Our mages need some recovery potions from the dungeon as we are running low on ours.|Magic Tower",
+        "Our mages need some recovery potions from the dungeon as we are running low on ours.|Magic Tower",
+        "Our group is going on a long-term expedition to the dungeon. We need potions of amplification for tough enemies.|Garrett",
+        "Our group is going on a long-term expedition to the dungeon. We need potions of amplification for tough enemies.|Garrett",
+        "Our group is going on a long-term expedition to the dungeon. We need potions of amplification for tough enemies.|Garrett",
+
+        "There is an unknown dungeon in our town. Go out there and explore for a bit.|Guilder",
+        "You need to clear a couple of dungeon rooms from monsters. You already know the rest.|Guilder",
+        "...You need to reach the 3rd floor of the dungeon. There is a puzzle..., the parts of which are located in different rooms of the floor.|Guilder",
+        "At the moment, there are a lot of people in the city who need the help of adventurers. You need to complete any 3 quests.|Guilder",
+        "A boss appears on the 5th floor of the dungeon - a very strong creature... If you can handle him, you will complete the task...|Guilder",
+
+        "My friend, monk Eric, went to the dungeon three days ago... Please help me find him!|Christine",
+        "Eric... said that today he will go on an expedition to the dungeon... Please find him!|Christine",
+        "Could the amulet be the reason Eric left? What if it made him go even further into the dungeon?..|Christine",
+
+        "All you have to do is make a selection... Let's explore the wooden chests first.|Selena",
+        "Yes, let's continue with silver chests... I'll increase the pay, you don't have to thank me.|Selena",
+        "Does something always drop out of golden chests?.. Still, this judgment needs to be verified.|Selena",
+
+        "So, the supplier for weapons has already been found, only potions remained. Bring me 10 pieces. About the cost...|Trader",
+
+        "Quest: search for a certain amount of weapons. Fixed price:... Features:...|Strange machine"
+    ],
+    "QuestObjectiveStrings":
+    [
+        "Earn experience in the dungeon",
+        "Earn experience in the dungeon",
+        "Earn experience in the dungeon",
+        "Kill any type of monsters",
+        "Kill any type of monsters",
+        "Kill any type of monsters",
+        "Kill any type of zombies",
+        "Kill any type of zombies",
+        "Kill any type of zombies",
+        "Kill any type of bats",
+        "Kill any type of bats",
+        "Kill any type of bats",
+        "Kill any type of spiders",
+        "Kill any type of spiders",
+        "Kill any type of spiders",
+        "Kill any type of infected earth golems",
+        "Kill any type of infected earth golems",
+        "Kill any type of infected earth golems",
+        "Open any type of chests in the dungeon",
+        "Open any type of chests in the dungeon",
+        "Open any type of chests in the dungeon",
+        "Open wooden chests in the dungeon",
+        "Open wooden chests in the dungeon",
+        "Open wooden chests in the dungeon",
+        "Open silver chests in the dungeon",
+        "Open silver chests in the dungeon",
+        "Open silver chests in the dungeon",
+        "Open golden chests in the dungeon",
+        "Open golden chests in the dungeon",
+        "Open golden chests in the dungeon",
+        "Find weapons of any rarity",
+        "Find weapons of any rarity",
+        "Find weapons of any rarity",
+        "Find potions of any rarity",
+        "Find potions of any rarity",
+        "Find potions of any rarity",
+        "Find potions of recovery",
+        "Find potions of recovery",
+        "Find potions of recovery",
+        "Find potions of amplification",
+        "Find potions of amplification",
+        "Find potions of amplification",
+        
+        "Enter the dungeon in the middle of a village",
+        "Kill any type of monsters",
+        "Reach the floor of the dungeon",
+        "Complete any quests",
+        "Kill any type of dungeon bosses",
+
+        "Reach the floor of the dungeon",
+        "Reach the floor of the dungeon",
+        "Reach the floor of the dungeon",
+
+        "Open wooden chests in the dungeon",
+        "Open silver chests in the dungeon",
+        "Open golden chests in the dungeon",
+
+        "Find potions of any rarity",
+
+        "Find weapons of any rarity"
+    ],
+    
+    "LocationStrings": 
+    [
+        "Floor",
+        "Ancient Dungeon"
+    ],
+    "FloorStrings": 
+    [
+        "Search Floor",
+        "Find all the feathers to open the exit",
+        "Boss Floor",
+        "Kill a strong monster to open the exit"
+    ],
+    "EndOfGameStrings":
+    [
+        "Deepest Floor",
+        "You have reached the last floor of the dungeon"
+    ],
+    "AnnouncementsStrings":
+    [
+        "Spotted",
+        "Cleared",
+        "Completed"
+    ],
+    
+    "ModificationTextStrings":
+    [
+        "Max.Health",
+        "Defence",
+        "Damage",
+        "Speed",
+        "FireChance",
+        "WaterChance",
+        "IceChance",
+        "ElectChance"
+    ],
+    
+    "BossesNamesStrings":
+    [
+        "Zombified Champion",
+        "Earth Golem: Goliath"
+    ],
+    
+    "EndingScrollStrings":
+    [
+        "Result",
+        "Floor reached",
+        "Gold",
+        "Exp",
+        "Monsters killed",
+        "Chests opened",
+        "Weapons found",
+        "Potions found",
+        "Medal"
+    ],
+    
+    "TransitionHintsStrings":
+    [
+        "The dungeon is full of enemies, puzzles and hard challenges...",
+        "Sometimes the entire floor of the dungeon can be one big puzzle...",
+        "Interactions between different elements can lead to unpredictable consequences...",
+        "In the village you can find shops, or make new friends...",
+        "No one knows where the dungeon came from...",
+        "Many adventurers enter the dungeon, but not all of them come back...",
+        "In the dungeon you can meet not only monsters, but also friendly creatures...",
+        "For some unknown reason, some things just disappear when taken from the dungeon...",
+        "The value of a dungeon lies not in how much treasure you can take out of it, but in how much experience you gain...",
+        "There are many people all over the village who need your help...",
+
+        "Upon reaching the maximum level, all the experience gained by the character will be converted into gold.",
+        "Each new level increases the health, defense and attack power of creatures. This extends to enemies as well.",
+        "With each floor of the dungeon, the level of enemies increases by two units.",
+        "Some enemies can summon other monsters. They can become a big problem if not dealt with immediately.",
+        "Some enemies show maximum efficiency only at a distance. They usually do not pose a threat up close.",
+        "Bosses of the dungeon are very dangerous creatures. They have many different abilities and several combat phases.",
+        "Unexpected objects can be found in the dungeon. They can both help in the fight against monsters and harm your character.",
+        "Sometimes puzzles can spread to other rooms in the dungeon. Usually they give valuable rewards.",
+        "On some floors of the dungeon you can find a haven of spirits. Pray and someone will surely answer your call.",
+        "According to rumors, the dungeon still has old armories in it. They may contain something valuable.",
+
+        "When applying two elements to enemies, a zone may appear in which all opponents will receive damage over time.",
+        "The belonging of an elemental zone is determined by the creature on whom this zone was created.",
+        "Some elements, when applied at the same time, neutralize each other. Their effects are lost in this process.",
+        "Different creatures apply elements for different amounts of time. Spirits do it best.",
+        "Characters under the element of water deal 35% less damage.",
+        "Electricity reduces the defence of creatures by 35%, thereby lowering their survivability.",
+        "When a character is on fire, he takes damage every second equal to 2.5% of his health cap.",
+        "Creatures under the element of ice lose 25% of their motion speed.",
+        "Some creatures are immune to the elements, and some cannot even use them.",
+        "If a creature was summoned while its owner was under a negative effect, this effect will be given to the summoned one forever."
+    ],
+    
+    "WarningHintsStrings":
+    [
+        "The game server is currently unavailable||Please try to log later",
+        "New version is available||Download it and restart the game",
+        "Bad internet connection||Some session data may be lost",
+        "Too many incorrect verification inputs||Restart the game and try again",
+        "All data was successfully restored||Have fun playing on your new device",
+        "All data was successfully saved||Enter the received codes on the new device",
+        "A data processing error occurred||Check the information is correct"
+    ],
+    
+    "DialogueUIStrings":
+    [
+        "Welcome to my shop! Here you can find a lot of useful stuff.&Come again! New items arrive every day.|Thanks for your purchase! I will look forward to your next visit.",
+        
+        "...This is the third time this week... Stop! And who is this?..&Did you just come out of an abandoned house?&It hasn't been used for a couple of years, how did you end up there?&This house originally belonged to... Hmmm... You know, I won't tell.. At least for now.&In exchange for information, complete the commission, and then I'll tell you a little more.&Judging by your outfit, you're an experienced adventurer.&There is an unknown dungeon in our town. Go out there and explore for a bit.&When you've completed the task, come here and I'll tell you something.&...This one won't open either... What are we going to do...?",
+        "...It's a dungeon chest, it can't be moved... Ooh, it's you.&Wait, you just went into the dungeon. Why did you leave this house again?&It seemed to me?.. Or... I think I understood...&As I see it, you completed the task, which means I must tell you the history of this place.&An unknown dungeon appeared here long ago to the founding of the town.&Experienced adventurers from the capital cities often organize dungeon-finding expeditions.&I was the leader of one such expedition that stumbled upon this dungeon.&You might be wondering why I told you all this. Now, listen.&There was already a house near this dungeon when we first discovered it...&The same house you come out of every time.&Next... Well, you need to complete one more simple task.&You need to clear a couple of dungeon rooms from monsters. You already know the rest.&...Yes, something like this has been happening quite often lately...",
+        "...Restoring the road takes a huge amount of budget... Ah, it's you again.&I see you've brought trophies. Mission accomplished, so I'll tell you more...&The house we talked about earlier wasn't abandoned at all when my group discovered it.&There was a famous magician living in it, but he was known not for his heroic deeds, but for use of dark magic.&Upon discovering a dungeon, a citizen of our country must report it to the guild.&It is a crime to hide the dungeon and use it only for one's own interests.&Furthermore, this magician... Sooo... Let's do one more thing, and then I'll tell you.&This time you need to reach the 3rd floor of the dungeon.&There is a puzzle waiting for you on it, the parts of which are located in different rooms of the floor.&If you can complete it, you will receive a valuable reward.&Of course, it is not necessary to do this, but I would advise, since you are on this floor anyway.&...Asphalt is not so easy to get these days...",
+        "...Everything will be done very soon... And here is our hero!&I see you have completed the task. Did you notice that the difficulty increases as you move up the floors?&Okay, where did we stop? Oh, right!&I think by now you have already encountered all 4 elements.&Fire, water, ice and electricity... That is their priority.&Some of them, when applied to one object, cause the appearance of an elemental zone of one of interacting elements.&These elements are officially allowed, but there are others.&The magician we talked about earlier used the dark magic of imprisoning souls.&He experimented on monsters from the dungeon, and in exchange for our silence, he left us alive...&We built a city around the dungeon, and he continued to experiment, until one moment... You know...&I have one more commission for you.&Do it, and I will tell you the whole story, even touching on the meaning of your existence...&At the moment, there are a lot of people in the city who need the help of adventurers.&You need to complete any 3 quests.&Obviously, there will also be a corresponding reward for them.&If you want stable income, then I advise you to go to the quest board.&It is located next to the entrance to dungeon.&New quests appear there every day.&They are distributed according to difficulty of completion.&For more complex ones there is a more valuable reward.&Come back after completing it, and I will tell you absolutely everything.&...Yes, I have already ordered all the materials for the repair...",
+        "...The workers are already ready, everything will be restored tomorrow... Well then!&As far as I can see, the extermination is complete. But don't relax just yet. Now it's my turn to keep the promise.&As I said earlier, the owner of this house used the dark magic of imprisoning souls.&This type of magic extracts the soul of a creature from the body and transfers it to a vessel created by the magician.&Further, the owner of the vessel can summon a creature in a completely new shell, created entirely from magic.&A creature's form is usually preserved, but sometimes it can evolve. For example, the soul of a cat can appear as a tiger.&This usually happens when the soul has a high level of spiritual concentration, but it is quite rare.&Earlier, I mentioned that the magician only experimented on monsters from the dungeon, but his activities did not end there...&At one point, he began to experiment on people. He looked for lonely people and took them to the basement... No one ever saw them again.&At some point, rumors spread around the city and an angry crowd quickly gathered at his house.&The doors to the house were blocked from the inside, but this was not a problem.&When the crowd rushed in, the magician was nowhere to be found.&And only in the basement was a strange magic circle discovered, the image of which is not found anywhere in magic books...&You do appear on this circle every time, right? I knew it...&I assume that this circle is the result of his experiments.&A magical sequence capable of summoning souls to this world without the magician's involvement.&Five years have passed since that day, and all this time the circle has been inactive. But now...&Now the circle has been activated for some unknown reason. Perhaps the magician himself is involved in this...&We only have few leads on this yet, so it's too early to draw any conclusions.&I kept my promise and told you everything I know, but I have one last task for you.&A boss appears on the 5th floor of the dungeon - a very strong creature with a lot of skills.&If you can handle him, you will complete the task and receive a generous reward from me.&Good luck! See you!",
+    
+        "...When will he return?..&Good afternoon, adventurer. I need urgent help...&My friend, monk Eric, went into the dungeon three days ago and has not returned since then...&I am very worried about him... According to rumors, this place is full of monsters. Perhaps he is in trouble...&You've been to this dungeon before, haven't you? Please help me find him!&He said he would try to go as far as he could.&Why didn't I stop him...",
+        "...Where did he go?..&No traces, right?.. I knew it...&Before this mission, Eric and I were best friends.&Since childhood, he was my faithful companion and assistant in all the sacred affairs of the church.&He always dreamed of being an adventurer and exploring dungeons.&That day before he left, he didn't seem to be himself.&Eric looked very excited, and during one of the breaks he came up to me and said that today he would go on an expedition to the dungeon.&If only I had known then that he was serious...&Please find him!&What should I do now...",
+        "...What happened to him?..&And again nothing, right?..&I tried for a long time to understand Eric's intentions, and at some point I remembered one strange thing.&About two months ago a man came to our church who called himself student of the Magic Tower.&He said that he needed our magic circle to increase his characteristics.&And also that whoever helps him install the catalysts will receive a generous reward.&Eric volunteered, and at the end of the ritual, the magician gave him an amulet and told him to take care of it.&About that time he began to behave strangely.&Other priests said that sometimes he whispered something alone, but I did not believe in these rumors...&Could the amulet be the reason Eric left?&What if it made him go even further into the dungeon?..&...What really happened to you?..&...Why can't I remember your face, Eric?..",
+
+        "...How can I complete the research?..&Hey! Are you an adventurer?&You do quests for different rewards, right?&Basically, I have a dungeon-related quest.&In order to graduate from the church, I need to do a research paper.&The topic of this paper is 'Research on Item Drop Rates from chests'.&All you have to do is make a selection of a certain variant of the chest.&I will share the results of the research with you and include you as an assistant in the report.&Hmmm... Let me think... Let's explore the wooden chests first.&They are the most common in the dungeon and they are easy to find.&Good luck!",
+        "...We need to fix this... Oh, how are you doing?&Let's see... Yes, this is definitely enough.&We compose the dependencies... And we get... Hmmm...&The results are not impressive, as expected...&From wooden chests have a 15% chance of dropping weapons, and a 35% chance of dropping potions.&In other cases... nothing...&If we assume that the chance that a potion will be a health potion is another 30%, then...&So that's why the magic tower buys them so expensively!&Okay, what am I talking about... Yes, let's continue with the silver chests.&You're doing a good job, so I'll increase the pay, you don't have to thank me.&...There's only a little left...",
+        "...Hurry up already... You're just in time!&What's the result?.. Oh, what's needed!&So... Silver chests mean... Let's see...&In general it's clear... The results are already much better.&Silver chests have a 25% chance of dropping weapons, and a 50% chance of dropping potions.&And the remaining 25%... It's not hard to guess.&Golden chests are next in line.&If the probability changes happens according to the same principle, then we get...&Weapons 35%, potions 65% and... Wait...&Does something always drop out of golden chests?&Still, this needs to be verified. You'll help, right?&...Finally, I can finish my research!..",
+
+        "Hello, can you help me with something?&I am currently out of items for sale in my store.&I used to order supplies through an adventurer group, but they recently pulled out due to disbandment.&My store is currently experiencing financial problems, and I urgently need to find a new supplier.&If you help me, you will forever receive a loyalty card.&With it you can buy all items for half their real cost. I hope you're interested!&So, a supplier for weapons has already been found, only potions remain.&Bring me 10 pieces. Regarding the cost...&I hope you can handle it! Good luck!",
+    
+        "Greetings! Request for a task...&Request received... Checking... Request approved!&Task: search for a certain amount of weapons.&Fixed price: 100 gold. Features of the task:...&Checking the emotional state of the client... Condition: critical...&Changing the assigned price... New fixed price:...&Condition: normal. Anomalies: not detected... The assignment was issued successfully...&I wish you successful completion!"
+    ]
+}
