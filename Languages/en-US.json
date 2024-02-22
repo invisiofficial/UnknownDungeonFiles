@@ -68,6 +68,19 @@
         "Potion of amplificacion",
         "1R elemental spirit"
     ],
+
+    "DungeonUIStrings":
+    [
+        "Choose a challenge",
+        "Back",
+        "Accept"
+    ],
+    "DungeonUICardStrings":
+    [
+        "Common",
+        "Labyrinth",
+        "???"
+    ],
     
     "QuestBoardStrings":
     [
