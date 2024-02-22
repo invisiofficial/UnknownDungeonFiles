@@ -18,8 +18,8 @@
             ],
             "DungeonSize":"7",
 
-            "ExperienceMultiplier":"1.2",
-            "GoldMultiplier":"1.2"
+            "ExperienceMultiplier":"1.0",
+            "GoldMultiplier":"1.0"
         },
         {
             "DungeonTypes":
