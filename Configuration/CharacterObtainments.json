@@ -72,6 +72,30 @@
             "FromQuestline":false,
 
             "FromShop":false
+        },
+        {
+            "PriceType":"0",
+            "Price":"250",
+
+            "FromSelection":true,
+
+            "FromQuest":false,
+
+            "FromQuestline":false,
+
+            "FromShop":false
+        },
+        {
+            "PriceType":"0",
+            "Price":"250",
+
+            "FromSelection":true,
+
+            "FromQuest":false,
+
+            "FromQuestline":false,
+
+            "FromShop":false
         }
     ]
 }

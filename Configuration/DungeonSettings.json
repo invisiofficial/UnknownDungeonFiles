@@ -1,0 +1,35 @@
+{
+    "dslist":
+    [
+        {
+            "DungeonTypes":
+            [
+                "0"
+            ],
+            "DungeonSize":"3",
+
+            "ExperienceMultiplier":"2.0",
+            "GoldMultiplier":"2.0"
+        },
+        {
+            "DungeonTypes":
+            [
+                "0"
+            ],
+            "DungeonSize":"7",
+
+            "ExperienceMultiplier":"1.0",
+            "GoldMultiplier":"1.0"
+        },
+        {
+            "DungeonTypes":
+            [
+                "0"
+            ],
+            "DungeonSize":"3",
+
+            "ExperienceMultiplier":"1.0",
+            "GoldMultiplier":"1.0"
+        }
+    ]
+}
